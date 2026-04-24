@@ -99,3 +99,7 @@ A retirada refere-se sempre a uma unidade individual, e não a uma guarnição c
 * Será permitido o máximo de 10 (dez) reféns por sequestro.
 * Será permitido o máximo de 03 (três) bandidos por refém.
 
+
+
+* Após a finalização de uma negociação e a recuperação do refém, é obrigatório que a polícia realize a revista no refém antes de algemá-lo e liberá-lo, com o objetivo de verificar a presença de quaisquer itens ilegais.
+

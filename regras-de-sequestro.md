@@ -1,6 +1,6 @@
 # REGRAS DE SEQUESTRO
 
-#### **Diretrizes Gerais**
+## 1. **Diretrizes Gerais**
 
 • O número de sequestradores deve ser sempre superior ao de vítimas, sendo obrigatório no mínimo 1 bandido a mais na ação.&#x20;
 
@@ -16,7 +16,7 @@
 
 • O sequestro deve conter abordagem clara e anúncio de voz, sendo proibido iniciar a ação de forma silenciosa ou sem interpretação (anti-RP).
 
-#### **Negociação**
+## 2. **Negociação**
 
 • O tempo de negociação deve respeitar o limite de mínimo 10 minutos e máximo 30 minutos.&#x20;
 
@@ -24,13 +24,13 @@
 
 • O pagamento do resgate deve ser realizado antes da liberação do refém.
 
-#### **Envolvimento Policial**
+## 3. **Envolvimento Policial**
 
 • O número de policiais na ação deve respeitar o limite de igual ou no máximo +1 em relação aos sequestradores.&#x20;
 
 • A polícia deve agir dentro do RP, evitando ações irreais ou desproporcionais.
 
-#### **Restrições e Condutas**
+## 4. **Restrições e Condutas**
 
 • É proibido abandonar o sequestrado sem justificativa plausível dentro do RP.&#x20;
 
@@ -46,7 +46,7 @@
 
 O descumprimento de qualquer regra poderá resultar em punições administrativas, conforme avaliação da staff.
 
-#### **Transporte do Sequestrado**
+## 5. **Transporte do Sequestrado**
 
 • É obrigatório garantir a integridade física do refém durante todo o percurso.&#x20;
 
@@ -56,7 +56,7 @@ O descumprimento de qualquer regra poderá resultar em punições administrativa
 * &#x20;Levar o refém para locais inacessíveis, bugados ou fora do mapa.
 * &#x20;Toda movimentação deve manter a coerência e qualidade do RP.
 
-#### **Tabela de Resgate**
+## 6. **Tabela de Resgate**
 
 Os valores devem seguir o padrão abaixo:
 
@@ -64,13 +64,13 @@ Os valores devem seguir o padrão abaixo:
 
 • Cargos altos do governo: R$ 350.000
 
-#### **Cooldown**
+## 7. **Cooldown**
 
 • Após ser sequestrado, o jogador não poderá ser sequestrado novamente pelo mesmo grupo por 8 horas.&#x20;
 
 • **É proibido realizar sequestros consecutivos abusivos, mesmo em alvos diferentes, visando farm de dinheiro.**
 
-#### **Encerramento da Ação**
+## 8. **Encerramento da Ação**
 
 • A ação será considerada encerrada quando:&#x20;
 
@@ -80,7 +80,7 @@ Os valores devem seguir o padrão abaixo:
 
 • Após o pagamento, o sequestrado deverá ser liberado com segurança, garantindo seu direito a uma fuga limpa.
 
-#### **Disposições Finais**
+## 9. **Disposições Finais**
 
 • Todas as ações devem priorizar a qualidade e coerência do RP, evitando atitudes que prejudiquem a experiência dos envolvidos.&#x20;
 
