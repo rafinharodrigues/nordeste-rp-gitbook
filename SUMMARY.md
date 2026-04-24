@@ -40,7 +40,7 @@
   * [GRAVAÇÃO DE ABORDAGENS - SS](procedimento-de-telagem/gravacao-de-abordagens-ss.md)
 * [REGRAS DE SEQUESTRO](regras-de-sequestro.md)
 * [REGRAS DE NEGOCIAÇÃO](regras-de-negociação/regras-de-negociação.md)
-* [🚨 REGRAS POLICIAIS](regras-policiais/regras-policiais.md)
+* [REGRAS POLICIAIS](regras-policiais/regras-policiais.md)
 * [HELICRASH](helicrash/helicrash.md)
 * [ASSALTOS](assaltos/assaltos.md)
 * [FUGAS](fugas/fugas.md)

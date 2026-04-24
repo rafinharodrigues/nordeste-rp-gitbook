@@ -1,4 +1,4 @@
-# 🚨 REGRAS POLICIAIS
+# REGRAS POLICIAIS
 
 ## 1. Conduta Geral
 
@@ -198,11 +198,30 @@ A Polícia da NORDESTE RP adota o princípio da progressão gradual e proporcion
 
 ## 7. Apreensão de Veículos
 
-* Veículos somente poderão ser apreendidos em Código 5, sem exceções.
+* Veículos somente poderão ser apreendidos em Código 5, sem exceções. Nas demais QRUs, é necessário acionar uma unidade responsável pela fiscalização de trânsito, solicitar um guincho, informar as infrações cometidas durante a fuga, e o oficial responsável tomará as devidas providências.
 
 ## 8. COD 5 – Abordagem por indivíduo armado&#x20;
 
 * Não está permitido o COD 5 apenas por certeza visual de que um cidadão estava armado.&#x20;
 * Para realização do COD 5, é obrigatório seguir os procedimentos padrão de prova, como abordagem adequada e verificação com evidências (ex: teste de resíduo de pólvora), não sendo válida apenas a confirmação visual.&#x20;
+* Caso o oficial se sinta em risco iminente ou identifique ameaça à segurança de terceiros, fica autorizada a neutralização do indivíduo, desde que a ação seja proporcional e justificada dentro do contexto.
+
+Observação: A decisão deve ser baseada em risco real e imediato, não sendo válida por suposição ou excesso de força injustificado.
 
 Observação: Suspeitas ou visualização prévia sem comprovação não justificam a aplicação do COD 5.
+
+## 9. APREENSÃO
+
+* Caso o indivíduo seja capturado, ele será conduzido à DP da Civil, onde a Penal irá buscá-lo para dar prosseguimento ao rito prisional dentro do presídio.
+* Se o indivíduo for conduzido desmaiado até a Civil, ele deverá ser revistado e terá seus itens ilícitos removidos por um oficial da Civil, mesmo nesse estado. Após o procedimento, o indivíduo deverá ser reanimado.
+* É obrigatório que o oficial registre uma foto da mochila do indivíduo e anexe na pasta “PRISÃO” no e-mail da PFNRP. O descarte de todos os itens deverá ser realizado no baú da Civil.
+
+**OBSERVAÇÃO**
+
+* Caso não haja oficial da Civil ou Penal disponível para realizar o transporte e o rito da prisão, ficará sob responsabilidade dos oficiais envolvidos na QRU dar prosseguimento na transferência do preso e no rito prisional.
+
+**RESGATE**
+
+* Se o preso for líder (00 ou 01) de facção, os membros poderão tentar o resgate apenas durante o trajeto até o presídio.
+
+É proibido invadir o presídio.
