@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ASSALTOS
 
 * _**Horário permitido: das 00:00 às 06:00 (horário do JOGO)**_
