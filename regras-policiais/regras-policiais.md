@@ -137,26 +137,21 @@ A polícia poderá abordar um indivíduo nas seguintes circunstâncias:
   * Caso o indivíduo ainda assim não cumpra a ordem legal, o oficial poderá retirá-lo do veículo (uso do “H”), procedendo com revista pessoal e veicular.
 * Caso sejam identificados ilícitos, o indivíduo deverá ser conduzido à DP da Polícia Civil, onde serão realizados os trâmites legais cabíveis.
 
-3. **Restrições Importantes**
-
-* É expressamente proibido passar residual em indivíduo desmaiado;
-* É expressamente proibido revistar indivíduo desmaiado, sob qualquer circunstância.
-
-4. **Legalidade da Revista**
+3. **Legalidade da Revista**
 
 A polícia poderá revistar o indivíduo nas seguintes situações:
 
 * Flagrante delito (não é necessário residual);
 * Uso de máscaras, coldres, coletes ou qualquer equipamento militar/tático.
 
-5. **Revista Veicular**
+4. **Revista Veicular**
 
 * Veículos poderão ser revistados apenas em flagrante de qualquer QRU;
 * O indivíduo não poderá se recusar a desbloquear o veículo;
 * Nenhum item poderá ser retirado do veículo no local da abordagem;
 * O indivíduo deverá ser conduzido à DP, onde a apreensão será realizada exclusivamente por um oficial da Polícia Civil.
 
-6. **Revista Feminina e Masculina**
+5. **Revista Feminina e Masculina**
 
 * A revista feminina deverá ser realizada por uma FOX;
 * Na ausência de FOX, deverá ser solicitada uma médica;
@@ -164,7 +159,7 @@ A polícia poderá revistar o indivíduo nas seguintes situações:
 * Caso a abordada se recuse ao procedimento, o oficial poderá realizar as apreensões via sistema da cidade e encaminhá-la ao presídio;
 * As mesmas regras se aplicam à FOX ao revistar um indivíduo masculino.
 
-7. **Proibição de Retirada de Itens**
+6. **Proibição de Retirada de Itens**
 
 * É expressamente proibida a retirada de qualquer item do indivíduo durante a abordagem na rua.
 * A retirada de itens é exclusiva de um oficial da Polícia Civil, durante o trâmite de prisão.
