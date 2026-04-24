@@ -37,6 +37,13 @@
 * [PROCEDIMENTO DE TELAGEM](procedimento-de-telagem/procedimento-de-telagem.md)
   * [SOLICITAÇÃO DE TELA](procedimento-de-telagem/solicitação-de-tela.md)
   * [GRAVAÇÃO DE ABORDAGENS - SS](procedimento-de-telagem/gravacao-de-abordagens-ss.md)
+
+## REGRAS DE SEQUESTRO
+
+* [SEQUESTRO](regras-de-sequestro/sequestro.md)
+
+***
+
 * [REGRAS DE NEGOCIAÇÃO](regras-de-negociação/regras-de-negociação.md)
 * [🚨 REGRAS POLICIAIS](regras-policiais/regras-policiais.md)
 * [HELICRASH](helicrash/helicrash.md)
