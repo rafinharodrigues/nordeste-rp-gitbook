@@ -199,3 +199,10 @@ A Polícia da NORDESTE RP adota o princípio da progressão gradual e proporcion
 ## 7. Apreensão de Veículos
 
 * Veículos somente poderão ser apreendidos em Código 5, sem exceções.
+
+## 8. COD 5 – Abordagem por indivíduo armado&#x20;
+
+* Não está permitido o COD 5 apenas por certeza visual de que um cidadão estava armado.&#x20;
+* Para realização do COD 5, é obrigatório seguir os procedimentos padrão de prova, como abordagem adequada e verificação com evidências (ex: teste de resíduo de pólvora), não sendo válida apenas a confirmação visual.&#x20;
+
+Observação: Suspeitas ou visualização prévia sem comprovação não justificam a aplicação do COD 5.
