@@ -9,6 +9,7 @@
     * Áudio do **denunciante**;
     * Áudio do **denunciado**;
     * **No mínimo 01 (um) minuto de gravação contínua;**
+    * **Não é permitido clipes de terceiros.**
 
     A ausência de qualquer um dos itens acima resultará na invalidação da denúncia, sem possibilidade de análise pela administração.
 
@@ -17,10 +18,9 @@
 * A denúncia deverá ser **obrigatoriamente aberta no prazo máximo de 24 (vinte e quatro) horas** contadas a partir do ocorrido.
 * Denúncias realizadas **após esse prazo não serão aceitas**, independentemente do motivo apresentado.
 
-## 3. Prazo para Abertura da Denúncia
+## 3. Contra prova
 
-* A denúncia deverá ser **obrigatoriamente aberta no prazo máximo de 24 (vinte e quatro) horas** contadas a partir do ocorrido.
-* Denúncias realizadas **após esse prazo não serão aceitas**, independentemente do motivo apresentado.
+* Todo player punido tem até 24h a partir do registro da punição pra apresentar a contra prova.
 
 ## 4. Prazo de Resposta no Ticket
 
