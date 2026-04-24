@@ -11,6 +11,7 @@
   * [DENÚNCIAS VIA SUPORTE](denúncias/denúncias-via-suporte.md)
 * [REGRAS BÁSICAS DE RP](regras-básicas-de-rp/regras-básicas-de-rp.md)
   * [RDM (Random Deathmatch)](regras-básicas-de-rp/rdm-random-deathmatch.md)
+  * [VDM](regras-basicas-de-rp/vdm.md)
   * [META-GAMING](regras-básicas-de-rp/meta-gaming.md)
   * [POWER GAMING](regras-básicas-de-rp/power-gaming.md)
   * [FLAMMING](regras-básicas-de-rp/flamming.md)
