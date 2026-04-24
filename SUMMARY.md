@@ -43,6 +43,7 @@
 * [REGRAS POLICIAIS](regras-policiais/regras-policiais.md)
 * [HELICRASH](helicrash/helicrash.md)
 * [ASSALTOS](assaltos/assaltos.md)
+* [ASSALTO A VEÍCULOS](assalto-a-veiculos.md)
 * [FUGAS](fugas/fugas.md)
 * [REGRAS DE AÇÕES](regras-de-ações/regras-de-ações.md)
   * [LOJINHA](regras-de-ações/lojinha.md)
