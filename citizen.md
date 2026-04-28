@@ -37,3 +37,7 @@
 * Reincidência: banimento temporário
 * Vantagem clara/intencional: banimento permanente
 
+## Banimento por Citizen
+
+* Caso o banimento seja aplicado por uso indevido de Citizen, não haverá direito a telagem.
+* Banimento é definitivo.
