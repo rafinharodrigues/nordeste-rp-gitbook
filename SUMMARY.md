@@ -42,6 +42,7 @@
 * [REGRAS DE NEGOCIAÇÃO](regras-de-negociação/regras-de-negociação.md)
 * [REGRAS POLICIAIS](regras-policiais/regras-policiais.md)
 * [HELICRASH](helicrash/helicrash.md)
+* [CITIZEN](citizen.md)
 * [ASSALTOS](assaltos/assaltos.md)
 * [ASSALTO A VEÍCULOS](assalto-a-veiculos.md)
 * [FUGAS](fugas/fugas.md)
