@@ -44,7 +44,7 @@
 * [HELICRASH](helicrash/helicrash.md)
 * [CITIZEN](citizen.md)
 * [ASSALTOS](assaltos/assaltos.md)
-* [ASSALTO A VEÍCULOS](assalto-a-veiculos.md)
+* [FURTOS A VEÍCULOS](furtos-a-veiculos.md)
 * [FUGAS](fugas/fugas.md)
 * [REGRAS DE AÇÕES](regras-de-ações/regras-de-ações.md)
   * [LOJINHA](regras-de-ações/lojinha.md)
