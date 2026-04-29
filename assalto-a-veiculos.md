@@ -1,11 +1,13 @@
 # ASSALTO A VEÍCULOS
 
-Com o objetivo de manter o equilíbrio entre ações criminosas e a experiência dos jogadores, o assalto a veículos seguirá as seguintes diretrizes:
+## Furto de Veículos
 
-* É permitido realizar assalto com o objetivo exclusivo de tomar o veículo.&#x20;
-* É proibido roubar itens, dinheiro ou qualquer pertence do jogador durante a ação.
-* É proibido realizar sequestro durante esse tipo de abordagem.
-* Não é permitido prolongar a ação além do necessário para obter o veículo.
-* A abordagem deve ser direta e objetiva, sem abusos ou excesso de agressividade.&#x20;
+Com o objetivo de manter o equilíbrio entre ações criminosas e a experiência dos jogadores, o furto de veículos deverá seguir rigorosamente as diretrizes abaixo:
 
-O foco dessa regra é permitir a dinâmica de roubo de veículos sem transformar a ação em um assalto completo ao jogador.
+* É permitido realizar o furto de veículos exclusivamente quando estes estiverem desocupados e fora de zonas safes.
+* É proibido abordar, render, ameaçar ou interagir com o proprietário ou qualquer outro jogador para realizar o furto.
+* É proibido subtrair itens, dinheiro, armas ou quaisquer pertences do jogador em qualquer circunstância.
+* É proibido manter o jogador no local, impedir sua movimentação ou gerar qualquer tipo de constrangimento durante a ação.
+* É proibido utilizar o furto como pretexto para iniciar qualquer outro tipo de ação criminosa contra o jogador.
+* O furto deve ocorrer de forma direta e silenciosa, sem gerar interação forçada com terceiros.
+* Definição: O furto de veículos é uma ação exclusivamente voltada ao bem (veículo), sem qualquer envolvimento direto com o jogador.
