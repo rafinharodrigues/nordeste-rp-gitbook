@@ -60,4 +60,4 @@ As infrações desta regra serão punidas conforme os seguintes critérios:
 
 * Quebra de GG em facção (zona vermelha) (retornar à mesma ação após morte dentro da facção)&#x20;
 
-**Punição: TempBan de 1 dia**
+**Punição: Advertência**
