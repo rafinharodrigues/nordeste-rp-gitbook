@@ -67,3 +67,4 @@
   * [BANCO CENTRAL](regras-de-ações/banco-central.md)
   * [BANCO DO RIO GRANDE DO NORTE](regras-de-ações/banco-do-rio-grande-do-norte.md)
 * [INVASÕES MARCADAS](invasoes-marcadas.md)
+* [AÇÕES POLICIAIS EM FACÇÕES](acoes-policiais-em-faccoes.md)
