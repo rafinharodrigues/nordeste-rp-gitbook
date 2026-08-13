@@ -6,6 +6,8 @@ description: >-
 
 # LEIA ATENTAMENTE
 
+<figure><img src="../.gitbook/assets/capa-leia-atentamente.png" alt="Leia atentamente"><figcaption></figcaption></figure>
+
 REGRAS NORDESTE ROLEPLAY
 
 ## Conduta Geral no Roleplay

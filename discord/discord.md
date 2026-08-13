@@ -4,6 +4,8 @@ description: Conduta no Discord, uso do sistema de tickets e sanções aplicáve
 
 # DISCORD
 
+<figure><img src="../.gitbook/assets/capa-discord.png" alt="Discord"><figcaption></figcaption></figure>
+
 ## 1. Conduta no Discord
 
 - **Proibido o uso de linguagem ofensiva, racista, homofóbica ou preconceituosa**, bem como qualquer ação que infrinja o **art. 140 do Código Penal Brasileiro** (injúria).

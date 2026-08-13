@@ -4,6 +4,8 @@ description: Como a polícia deve agir em abordagens, perseguições e ações.
 
 # REGRAS POLICIAIS
 
+<figure><img src="../.gitbook/assets/capa-policiais.png" alt="Regras policiais"><figcaption></figcaption></figure>
+
 ## 1. Conduta Geral
 
 1. **Imitações de Policiais:**

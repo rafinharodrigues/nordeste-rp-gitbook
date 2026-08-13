@@ -4,6 +4,8 @@ description: O que pode e o que não pode ao fazer um refém.
 
 # REGRAS DE SEQUESTRO
 
+<figure><img src="../.gitbook/assets/capa-sequestro.png" alt="Sequestro e negociação"><figcaption></figcaption></figure>
+
 ## 1. **Diretrizes Gerais**
 
 • O número de sequestradores deve ser sempre superior ao de vítimas, sendo obrigatório no mínimo 1 bandido a mais na ação.&#x20;

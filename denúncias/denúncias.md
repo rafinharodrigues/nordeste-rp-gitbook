@@ -4,6 +4,8 @@ description: Por onde denunciar, o que anexar como prova e o que esperar da admi
 
 # DENÚNCIAS
 
+<figure><img src="../.gitbook/assets/capa-denuncias.png" alt="Denúncias"><figcaption></figcaption></figure>
+
 ## Conduta Geral no Roleplay
 
 1. **Respeito é Fundamental**

@@ -2,16 +2,14 @@
 description: Ação de Grande Porte.
 ---
 
-## Ação de Grande Porte
+# BANCO DO RIO GRANDE DO NORTE
 
-> **Bandidos:**  
-> Mínimo: 06 | Máximo: 10
->
-> (_Permitido 2 bandidos fora caso seja a quantidade mínima e 3 bandidos fora caso seja negociado com os reféns._)
-> 
-> **Polícia:**
->
-> Sempre 04 a mais que a quantidade de bandidos.
+**Ação de Grande Porte**
+
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 06 | Máximo: 10<br>(_Permitido 2 bandidos fora caso seja a quantidade mínima e 3 bandidos fora caso seja negociado com os reféns._)</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Sempre 04 a mais que a quantidade de bandidos.</td></tr>
+</tbody></table>
 
 - **Fuzis** são as únicas armas permitidas.
 - Essa ação deverá ser marcada.

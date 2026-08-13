@@ -4,20 +4,27 @@ description: Ação de Grande Porte — 12 bandidos, 17 policiais, apenas fuzis 
 
 # NIÓBIO
 
-Ação de Grande Porte
+**Ação de Grande Porte**
 
-> 👥 **Bandidos:** Obrigatório 12
->
-> 🚔 **Polícia:** Obrigatório 17
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Obrigatório 12</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Obrigatório 17</td></tr>
+</tbody></table>
 
-⚠️ **Fuzis** são as únicas armas permitidas. Essa ação deverá ser marcada.
+{% hint style="warning" %}
+**Fuzis** são as únicas armas permitidas. Essa ação deverá ser marcada.
+{% endhint %}
 
-🚫 **Proibido marcar a porta que dá acesso a água**; A parte da água só poderá ser acessada para entrar ou sair do túnel do NIÓBIO.
+{% hint style="danger" %}
+**Proibido marcar a porta que dá acesso a água**; A parte da água só poderá ser acessada para entrar ou sair do túnel do NIÓBIO.
+{% endhint %}
 
 * Proibida utilização de reféns.
 * Limite de 4 bandidos entre o corredor que dá acesso à água e o quadrado do quebrado.
 
-✅ Permitido o uso de utilitários. (energético, kit médico, bandagem e analgésicos)
+{% hint style="success" %}
+Permitido o uso de utilitários. (energético, kit médico, bandagem e analgésicos)
+{% endhint %}
 
 * Polícia sempre deve rusher.
 * Utilização de apenas 05 smokes (inegociável).

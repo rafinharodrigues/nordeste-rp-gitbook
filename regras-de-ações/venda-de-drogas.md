@@ -2,15 +2,14 @@
 description: Ação de Pequeno Porte.
 ---
 
-## Ação de Pequeno Porte
+# VENDA DE DROGAS
 
-> **Bandidos:**
-> 01 veículo completo, independente do modelo.
-> 
-> **Polícia:**
-> 03 viaturas no total.
-> 
-> Podendo apenas 01 unidade de GTM (03 GTM's) durante a perseguição.
+**Ação de Pequeno Porte**
+
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>01 veículo completo, independente do modelo.</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>03 viaturas no total.<br>Podendo apenas 01 unidade de GTM (03 GTM's) durante a perseguição.</td></tr>
+</tbody></table>
 
 ### Tentativa de fuga por pelo menos 05 minutos.
 

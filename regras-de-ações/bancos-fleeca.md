@@ -2,14 +2,14 @@
 description: Requisitos, armas e regras de fuga no roubo aos bancos Fleeca.
 ---
 
+# BANCOS FLEECA
+
 ## ROUBO
 
-###  Bandido:
-Mínimo: 06 | Máximo: 08
-Mínimo 03 bandidos dentro do Fleeca.
-
-###  Polícia:
-Sempre 03 a mais que a quantidade de bandidos.
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 06 | Máximo: 08<br>Mínimo 03 bandidos dentro do Fleeca.</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Sempre 03 a mais que a quantidade de bandidos.</td></tr>
+</tbody></table>
 
 Submetralhadoras são as únicas armas permitidas.
 Não necessário agendamento de ação.
@@ -30,10 +30,10 @@ Utilização de apenas 03 smokes (inegociável).
 
 ## FUGA
 
-###  Bandidos:
-Mínimo: 3 veículos | Máximo: 4 veículos
-###  Polícia:
-Máximo: 1 Helicóptero | Máximo: 2 unidades
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 3 veículos | Máximo: 4 veículos</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Máximo: 1 Helicóptero | Máximo: 2 unidades</td></tr>
+</tbody></table>
 
 Para o início da **FUGA** é necessário que todos os **BANDIDOS** estejam no perímetro da ação.
 Todos os bandidos deverão estar **armados**.
