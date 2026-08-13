@@ -1,3 +1,7 @@
+---
+description: O que pode e o que não pode ao fazer um refém.
+---
+
 # REGRAS DE SEQUESTRO
 
 ## 1. **Diretrizes Gerais**

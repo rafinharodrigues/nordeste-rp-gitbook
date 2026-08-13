@@ -1,3 +1,7 @@
+---
+description: Como a polícia deve agir em abordagens, perseguições e ações.
+---
+
 # REGRAS POLICIAIS
 
 ## 1. Conduta Geral

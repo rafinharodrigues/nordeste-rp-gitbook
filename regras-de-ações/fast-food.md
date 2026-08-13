@@ -1,3 +1,7 @@
+---
+description: Ação de Pequeno Porte.
+---
+
 # 🍴 FAST FOOD
 
 Ação de Pequeno Porte

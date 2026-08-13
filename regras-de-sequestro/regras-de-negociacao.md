@@ -1,3 +1,7 @@
+---
+description: Como conduzir uma negociação com a polícia.
+---
+
 # REGRAS DE NEGOCIAÇÃO
 
 ## 1. Contexto de Aplicação

@@ -1,3 +1,7 @@
+---
+description: Como solicitar uma tela e o que é exigido do jogador.
+---
+
 # SOLICITAÇÃO DE TELA
 
 ### Gravação de Tela Durante Ações

@@ -1,3 +1,7 @@
+---
+description: Vale em qualquer acompanhamento policial — veículos, resgate e perímetro.
+---
+
 # FUGAS
 
 ## 1. Aplicação da Regra

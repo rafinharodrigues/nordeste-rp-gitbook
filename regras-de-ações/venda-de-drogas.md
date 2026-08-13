@@ -1,3 +1,7 @@
+---
+description: Ação de Pequeno Porte.
+---
+
 ## Ação de Pequeno Porte
 
 > **Bandidos:**

@@ -1,3 +1,7 @@
+---
+description: Ação de Grande Porte — 12 bandidos, 17 policiais, apenas fuzis e ação marcada.
+---
+
 # NIÓBIO
 
 Ação de Grande Porte

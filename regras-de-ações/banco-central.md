@@ -1,3 +1,7 @@
+---
+description: Ação de Grande Porte — 10 bandidos, 12 policiais, apenas fuzis e ação marcada.
+---
+
 ## BANCO CENTRAL
 Ação de Grande Porte
 

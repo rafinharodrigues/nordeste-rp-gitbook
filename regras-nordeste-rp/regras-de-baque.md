@@ -1,3 +1,7 @@
+---
+description: Baque em favela — só entre 18h e 01h, com regras próprias.
+---
+
 # REGRAS DE BAQUE
 
 REGRAS OFICIAIS DE BAQUE EM FAVELA

@@ -1,3 +1,7 @@
+---
+description: Requisitos, armas e limites de cada ação da cidade — do pequeno ao grande porte.
+---
+
 # REGRAS DE AÇÕES
 
 ## 1. Colaboração e Parcerias

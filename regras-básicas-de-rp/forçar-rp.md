@@ -1,3 +1,7 @@
+---
+description: Obrigar outro jogador a entrar numa cena que ele não quer.
+---
+
 # FORÇAR RP
 
 ## O que é Forçar RP?

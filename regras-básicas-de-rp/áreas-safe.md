@@ -1,3 +1,7 @@
+---
+description: Onde não pode haver ação hostil dentro da cidade.
+---
+
 # ÁREAS SAFE
 
 ## Definição de Zonas Safe

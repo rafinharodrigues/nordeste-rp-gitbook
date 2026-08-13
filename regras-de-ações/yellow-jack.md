@@ -1,3 +1,7 @@
+---
+description: Ação de Pequeno Porte.
+---
+
 # YELLOW JACK
 
 ### Ação de Pequeno Porte

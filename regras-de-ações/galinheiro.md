@@ -1,3 +1,7 @@
+---
+description: Ação de Médio Porte.
+---
+
 ## Ação de Médio Porte
 
 > **Bandidos:**

@@ -1,3 +1,7 @@
+---
+description: Atitudes que quebram o espírito do servidor.
+---
+
 ## O que é Anti Roleplay?
 
 - **Anti Roleplay (Anti-RP)** ocorre quando um jogador **sai do personagem**, quebrando a imersão e a coerência da narrativa do Roleplay.

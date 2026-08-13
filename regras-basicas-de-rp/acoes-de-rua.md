@@ -1,3 +1,7 @@
+---
+description: O que vale em abordagens e conflitos de rua.
+---
+
 # AÇÕES DE RUA
 
 ## 1. REGRAS PARA AÇÕES DE RUA
