@@ -21,7 +21,7 @@ Não é necessário agendamento de ação.
 
 ## Perímetro
 
-![Imagem aérea de uma área demarcada em verde em um complexo industrial, ilustrando o perímetro da ação](../regras-de-a%C3%A7%C3%B5es/image1)
+![Imagem aérea de uma área demarcada em verde em um complexo industrial, ilustrando o perímetro da ação](https://github.com/rafinharodrigues/nordeste-rp-gitbook/blob/main/regras-de-a%C3%A7%C3%B5es/image1)
 
 O respeito às regras garante uma experiência equilibrada e divertida para todos os jogadores. Infrações podem resultar em punições, incluindo advertências ou banimento.
 

@@ -1,3 +1,7 @@
+---
+description: Como funcionam advertências, banimentos, prazos de vigência e unban.
+---
+
 # ADVERTÊNCIAS E PUNIÇÕES
 
 ## 1. Autoridade da Administração

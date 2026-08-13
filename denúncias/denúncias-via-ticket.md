@@ -1,3 +1,7 @@
+---
+description: Como abrir um ticket de denúncia e o que incluir nele.
+---
+
 # DENÚNCIAS VIA TICKET
 
 ## 1. Requisitos para Denúncias

@@ -148,7 +148,6 @@ Durante e após a fuga, o bandido não poderá:
 
 **Comunicação Detectável (Rádio ou Celular)**
 
-* Caso a polícia ouça, de forma clara e detectável, o bandido solicitando apoio por rádio ou celular, fica liberado imediatamente o Código 5, sendo permitidos disparos nos pneus.
 * Se a solicitação de apoio ocorrer durante fuga a pé, fica autorizado o uso de taser.
 
 **TROCA DE VEÍCULO POR PARTE DOS BANDIDOS.**

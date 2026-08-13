@@ -1,3 +1,7 @@
+---
+description: O mínimo esperado de respeito entre jogadores, dentro e fora do personagem.
+---
+
 # REGRA BÁSICA DE CONVIVÊNCIA
 
 ## &#x31;**. Política de Tolerância Zero**

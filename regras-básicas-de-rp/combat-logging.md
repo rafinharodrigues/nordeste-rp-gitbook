@@ -1,3 +1,7 @@
+---
+description: Sair do jogo para escapar de uma situação de RP em andamento.
+---
+
 # COMBAT LOGGING
 
 ## O que é Combat Logging?

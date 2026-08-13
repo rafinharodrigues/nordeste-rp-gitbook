@@ -1,3 +1,7 @@
+---
+description: O que seu personagem esquece ao morrer e como deve se comportar depois.
+---
+
 # NEW LIFE RULE
 
 1. **Após entrar em coma:**

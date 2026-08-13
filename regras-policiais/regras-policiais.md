@@ -162,7 +162,7 @@ A polícia poderá revistar o indivíduo nas seguintes situações:
 6. **Proibição de Retirada de Itens**
 
 * É expressamente proibida a retirada de qualquer item do indivíduo durante a abordagem na rua.
-* A retirada de itens é exclusiva de um oficial da Polícia Civil, durante o trâmite de prisão.
+* A retirada de itens é exclusiva de um oficial da Polícia Civil ou Penal durante o trâmite de prisão. Caso não tenha um desses policiais no momento, a unidade primaria da ocorrência fica responsável.
 
 ### 6. Progressão de Força
 

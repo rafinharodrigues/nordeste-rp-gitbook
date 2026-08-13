@@ -1,3 +1,7 @@
+---
+description: Quando acionar o suporte ao vivo em vez de abrir um ticket.
+---
+
 # DENÚNCIAS VIA SUPORTE
 
 ## 1. Como Realizar uma Denúncia

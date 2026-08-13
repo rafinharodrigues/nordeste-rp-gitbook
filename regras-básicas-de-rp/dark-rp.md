@@ -1,30 +1,36 @@
-## O que é Dark RP?
+---
+description: 'Limites do RP pesado: o que a cidade não permite em nenhuma hipótese.'
+---
 
-- **Dark RP** refere-se a ações no Roleplay que envolvem:
-  - **Assédio sexual;**
-  - **Estupro;**
-  - **Racismo;**
-  - **Outras formas de preconceito;**
-  - Atitudes invasivas e absurdas que desrespeitam os limites éticos e morais.
+# DARK RP
 
-## Proibição de Dark RP
+### O que é Dark RP?
 
-- A prática de Dark RP é **estritamente proibida** e será tratada com **banimento permanente** do servidor, sem possibilidade de apelação.
+* **Dark RP** refere-se a ações no Roleplay que envolvem:
+  * **Assédio sexual;**
+  * **Estupro;**
+  * **Racismo;**
+  * **Outras formas de preconceito;**
+  * Atitudes invasivas e absurdas que desrespeitam os limites éticos e morais.
 
-## Situações de Dark
+### Proibição de Dark RP
 
-- Caso algum jogador cometa **algum tipo de dark** no qual seja visto por **vídeo, lives, vods**, etc, a staff terá total permissão de realizar a punição devida ao jogador.
+* A prática de Dark RP é **estritamente proibida** e será tratada com **banimento permanente** do servidor, sem possibilidade de apelação.
 
-## O que NÃO é Dark RP?
+### Situações de Dark
 
-- As seguintes ações, quando realizadas dentro do contexto narrativo do Roleplay, **não são consideradas Dark RP**:
-  - Atirar em um corpo;
-  - Esfaquear um personagem;
-  - Chutar, desde que coerente com a situação.
+* Caso algum jogador cometa **algum tipo de dark** no qual seja visto por **vídeo, lives, vods**, etc, a staff terá total permissão de realizar a punição devida ao jogador.
 
-## Nota Importante
+### O que NÃO é Dark RP?
 
-- Dark RP compromete a integridade e a segurança emocional dos jogadores, sendo incompatível com os valores da comunidade. A administração terá **tolerância zero** para quaisquer violações dessa regra.
+* As seguintes ações, quando realizadas dentro do contexto narrativo do Roleplay, **não são consideradas Dark RP**:
+  * Atirar em um corpo;
+  * Esfaquear um personagem;
+  * Chutar, desde que coerente com a situação.
+
+### Nota Importante
+
+* Dark RP compromete a integridade e a segurança emocional dos jogadores, sendo incompatível com os valores da comunidade. A administração terá **tolerância zero** para quaisquer violações dessa regra.
 
 > **Lembre-se:** O Roleplay deve ser inclusivo e respeitoso. Qualquer comportamento que ultrapasse os limites da ética será tratado com severidade.
 

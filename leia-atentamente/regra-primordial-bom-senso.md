@@ -1,3 +1,7 @@
+---
+description: A regra que está acima de todas as outras.
+---
+
 # REGRA PRIMORDIAL: BOM SENSO
 
 ## A Base do Roleplay

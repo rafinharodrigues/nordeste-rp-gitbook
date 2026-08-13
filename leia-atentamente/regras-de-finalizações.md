@@ -1,3 +1,7 @@
+---
+description: Quando é permitido finalizar um personagem e como fazer isso dentro do RP.
+---
+
 # REGRAS DE FINALIZAÇÕES
 
 ## 1. Permissões Gerais
