@@ -1,5 +1,5 @@
 ---
-description: Mods gráficos: o que é permitido e o que resulta em banimento.
+description: 'Mods gráficos: o que é permitido e o que resulta em banimento.'
 ---
 
 # CITIZEN
