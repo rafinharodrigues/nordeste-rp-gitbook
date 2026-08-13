@@ -4,17 +4,22 @@ description: Ação de Pequeno Porte.
 
 # MERGULHADOR
 
-Ação de Pequeno Porte
+**Ação de Pequeno Porte**
 
-> 👤 Bandidos: Mínimo: 05 | Máximo: 06
->
-> 👮 Polícia: Sempre 02 a mais que a quantidade de bandidos.
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 05 | Máximo: 06</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Sempre 02 a mais que a quantidade de bandidos.</td></tr>
+</tbody></table>
 
-⚠️ - Apenas pistolas, no caso da Polícia usar glock e os bandidos usar Five Seven, podem ser utilizadas durante a ação.
+{% hint style="warning" %}
+Apenas pistolas, no caso da Polícia usar glock e os bandidos usar Five Seven, podem ser utilizadas durante a ação.
+{% endhint %}
 
 Não é necessário agendamento de ação.
 
-⚠️
+{% hint style="warning" %}
+
+{% endhint %}
 
 * É **proibido** subir em qualquer construção.
 * É **proibido uso de refém.**

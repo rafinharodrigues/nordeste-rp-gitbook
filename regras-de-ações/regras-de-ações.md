@@ -4,6 +4,20 @@ description: Requisitos, armas e limites de cada ação da cidade — do pequeno
 
 # REGRAS DE AÇÕES
 
+<figure><img src="../.gitbook/assets/capa-acoes.png" alt="Regras de ações"><figcaption></figcaption></figure>
+
+### Ações por porte
+
+<table><thead><tr><th width="170">Porte</th><th>Ações</th></tr></thead><tbody>
+<tr><td><strong>🟢 Pequeno</strong></td><td><a href="./lojinha.md"><strong>LOJINHA</strong></a> · <a href="./fast-food.md"><strong>🍴 FAST FOOD</strong></a> · <a href="./est%C3%A1bulo.md"><strong>ESTÁBULO</strong></a> · <a href="./navio-de-cargas.md"><strong>NAVIO DE CARGAS</strong></a> · <a href="./barbearia.md"><strong>BARBEARIA</strong></a> · <a href="./ammunation.md"><strong>AMMUNATION</strong></a> · <a href="./caixa-eletr%C3%B4nico-registradora.md"><strong>CAIXA ELETRÔNICO / REGISTRADORA</strong></a> · <a href="./venda-de-drogas.md"><strong>VENDA DE DROGAS</strong></a> · <a href="./mergulhador.md"><strong>MERGULHADOR</strong></a> · <a href="./yellow-jack.md"><strong>YELLOW JACK</strong></a></td></tr>
+<tr><td><strong>🟡 Médio</strong></td><td><a href="./hollywood.md"><strong>HOLLYWOOD</strong></a> · <a href="./life-invader.md"><strong>LIFE INVADER</strong></a> · <a href="./a%C3%A7ougue.md"><strong>AÇOUGUE</strong></a> · <a href="./galinheiro.md"><strong>GALINHEIRO</strong></a> · <a href="./joalheria.md"><strong>JOALHERIA</strong></a></td></tr>
+<tr><td><strong>🔴 Grande</strong></td><td><a href="./ni%C3%B3bio.md"><strong>NIÓBIO</strong></a> · <a href="./banco-central.md"><strong>BANCO CENTRAL</strong></a> · <a href="./banco-do-rio-grande-do-norte.md"><strong>BANCO DO RIO GRANDE DO NORTE</strong></a></td></tr>
+<tr><td><strong>⚪ Gerais</strong></td><td><a href="./bancos-fleeca.md"><strong>BANCOS FLEECA</strong></a> · <a href="./assaltos.md"><strong>ASSALTOS</strong></a> · <a href="./regras-de-assalto-norte.md"><strong>REGRAS DE ASSALTO NORTE</strong></a> · <a href="./furtos-a-veiculos.md"><strong>FURTOS A VEÍCULOS</strong></a> · <a href="./fugas.md"><strong>FUGAS</strong></a> · <a href="./helicrash.md"><strong>HELICRASH</strong></a></td></tr>
+</tbody></table>
+
+***
+
+
 ## 1. Colaboração e Parcerias
 
 * **É proibida qualquer ação conjunta entre:**

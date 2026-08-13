@@ -2,13 +2,14 @@
 description: Ação de Médio Porte.
 ---
 
-## Ação de Médio Porte
+# GALINHEIRO
 
-> **Bandidos:**
-> Mínimo: 06 | Máximo: 08
-> 
-> **Polícia:**
-> Sempre 02 a mais que a quantidade de bandidos.
+**Ação de Médio Porte**
+
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 06 | Máximo: 08</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Sempre 02 a mais que a quantidade de bandidos.</td></tr>
+</tbody></table>
 
 - Submetralhadoras e fuzis são as únicas armas permitidas.
 - Permitido até 03 fuzis para bandido.

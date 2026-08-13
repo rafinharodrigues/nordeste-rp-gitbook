@@ -2,20 +2,26 @@
 description: Ação de Pequeno Porte.
 ---
 
-## Ação de Pequeno Porte
+# BARBEARIA
+
+**Ação de Pequeno Porte**
 
 ℹ️ **Bandidos:**  
 Mínimo: 2 | Máximo: 4
 
-👮 **Polícia:**
-
 Sempre o mesmo número de bandidos.
 
-⚠️ Permidito APENAS o uso de armas **BRANCAS.** (tacos, cassetete, machados, facas, etc)
+{% hint style="warning" %}
+Permidito APENAS o uso de armas **BRANCAS.** (tacos, cassetete, machados, facas, etc)
+{% endhint %}
 
-⛔ É proibido a utilização de refém.
+{% hint style="danger" %}
+É proibido a utilização de refém.
+{% endhint %}
 
-✅ Permitido o uso de utilitários. (energético, kit médico, bandagem e analgésicos)
+{% hint style="success" %}
+Permitido o uso de utilitários. (energético, kit médico, bandagem e analgésicos)
+{% endhint %}
 
 ---
 
@@ -25,7 +31,9 @@ Sempre o mesmo número de bandidos.
 
 ---
 
-⚠️ O respeito às regras garante uma experiência equilibrada e divertida para todos os jogadores. Infrações podem resultar em punições, incluindo advertências ou banimento.
+{% hint style="warning" %}
+O respeito às regras garante uma experiência equilibrada e divertida para todos os jogadores. Infrações podem resultar em punições, incluindo advertências ou banimento.
+{% endhint %}
 
 As regras podem ser alteradas futuramente sem qualquer aviso, por esse motivo leia sempre as regras antes de iniciar as ações.
 

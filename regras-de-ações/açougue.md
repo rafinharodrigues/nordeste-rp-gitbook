@@ -2,13 +2,14 @@
 description: Requisitos e limites do roubo no açougue.
 ---
 
-## AÇOUGUE
-Ação de Médio Porte
+# AÇOUGUE
 
-### 👺 Bandidos:
-06 bandidos
-### 🚓 Polícia:
-08 policiais
+**Ação de Médio Porte**
+
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>06 bandidos</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>08 policiais</td></tr>
+</tbody></table>
 
 - Submetralhadoras e fuzis são as únicas armas permitidas.
 - Permitido até 03 fuzis para bandido.

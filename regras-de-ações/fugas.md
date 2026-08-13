@@ -68,7 +68,9 @@ Durante o período de fuga limpa, a polícia está expressamente proibida de:
 
 * Caso uma viatura capote durante a perseguição, os policiais envolvidos deverão dar QTA (quebra total da ação), encerrando imediatamente sua participação.
 
-✅ **A POLÍCIA PODE:**
+{% hint style="success" %}
+**A POLÍCIA PODE:**
+{% endhint %}
 
 * Realizar cerco táticos para bloquear o caminho do veículo, **desde que sem colisões**.
 
@@ -106,7 +108,9 @@ Nos casos em que o veículo do bandido fique preso, imobilizado ou encurralado, 
   * Em caso de reincidência, será aplicada punição administrativa da cidade;
 * Segurar a tecla “H” antes que o suspeito esteja completamente no chão e imobilizado.
 
-✅ **A POLÍCIA PODE:**
+{% hint style="success" %}
+**A POLÍCIA PODE:**
+{% endhint %}
 
 * Utilizar cabeçada para tentar deter o suspeito.
 
@@ -120,7 +124,8 @@ Após o período inicial de 05 (cinco) minutos de fuga, fica autorizado à polí
 
 * Realizar bloqueios em becos e ruas sem saída, com o objetivo de conter a fuga.
 
-Observação:\
+Observação:
+\
 Bloqueios realizados de forma indevida, incluindo práticas como bate-bate proposital, estarão sujeitos a punições administrativas, conforme avaliação da administração.
 
 #### Ações Proibidas ao Bandido
@@ -208,7 +213,8 @@ Durante o período de fuga limpa aérea, o bandido poderá:
 * Realizar pouso em local seguro e iniciar fuga a pé ou em veículo terrestre;
 * Não é permitido atirar de dentro da aeronave durante o período de fuga limpa.
 
-Observação:\
+Observação:
+\
 O acompanhamento aéreo somente será considerado válido após o lançamento do informe oficial na cidade (balão), comunicando formalmente o início da abordagem.
 
 **7.2 Após o Encerramento da Fuga Limpa Aérea (Após 5 Minutos)**

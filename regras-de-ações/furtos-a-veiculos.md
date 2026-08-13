@@ -2,7 +2,9 @@
 description: Regras para assalto e furto de veículos.
 ---
 
-# ASSALTO A VEÍCULOS
+# FURTOS A VEÍCULOS
+
+## ASSALTO A VEÍCULOS
 
 ## Furto de Veículos
 

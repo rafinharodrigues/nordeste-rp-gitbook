@@ -2,23 +2,24 @@
 description: Requisitos e limites do roubo na Life Invader.
 ---
 
-## LIFE INVADER
-Ação de Médio Porte
+# LIFE INVADER
 
-> **Bandidos:**
-> 
-> Mínimo: 6 | Máximo: 6
-> 
-> **Polícia:**
-> 
-> Sempre 03 a mais que a quantidade de bandidos.
+**Ação de Médio Porte**
+
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 6 | Máximo: 6</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Sempre 03 a mais que a quantidade de bandidos.</td></tr>
+</tbody></table>
 
 - Submetralhadoras e fuzis são as únicas armas permitidas.
 - Permitido até 03 fuzis para bandido.
 - Permitido até 04 fuzis para polícia.
 - Não necessário agendamento de ação.
 
-:warning: **É proibida a entrada de veículos** dentro do local do roubo.
+{% hint style="warning" %}
+**É proibida a entrada de veículos** dentro do local do roubo.
+{% endhint %}
+
 - O uso de helicópteros é proibido.
 - É proibido atirar de dentro do perímetro para fora do perímetro, e vice-versa.
 - É proibida a utilização de refém.

@@ -4,6 +4,8 @@ description: 'Mods gráficos: o que é permitido e o que resulta em banimento.'
 
 # CITIZEN
 
+<figure><img src=".gitbook/assets/capa-citizen.png" alt="Citizen"><figcaption></figcaption></figure>
+
 ## &#x20;Regras de Citizen / Modificações Gráficas
 
 ## 1. Permitido:

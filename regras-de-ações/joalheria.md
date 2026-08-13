@@ -4,13 +4,9 @@ description: Requisitos e limites do roubo à joalheria.
 
 # JOALHERIA
 
-### Ação de Médio Porte
-
-#### \[🔫] Bandidos:
+**Ação de Médio Porte**
 
 Mínimo: 06 | Máximo: 08
-
-#### \[🚨] Polícia:
 
 Sempre 02 a mais que a quantidade de bandidos.
 

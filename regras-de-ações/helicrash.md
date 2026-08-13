@@ -35,14 +35,14 @@ description: Evento na ilha com acesso apenas pelo mar, envolvendo todas as orga
 
 Os itens encontrados no helicóptero são altamente valiosos para o comércio e sobrevivência no mundo ilegal. O loot pode incluir:
 
-✅ **Disponível no loot:**
+{% hint style="success" %}
+**Disponível no loot:**
+{% endhint %}
 
 * **Coletes** – Proteção extra para combates.
 * **Submetralhadoras** – Armamento leve de alta cadência de tiro.
 * **Pílula de Cacto** – Droga especial que concede todos os benefícios das substâncias já existentes na cidade.
 * **Super Droga** – Produto raro e altamente lucrativo no mercado negro.
-
-
 
 ## 6. Helicrash – Restrição de acesso
 

@@ -2,14 +2,14 @@
 description: Requisitos e limites do roubo na Hollywood.
 ---
 
-## HOLLYWOOD
-Ação de Médio Porte
+# HOLLYWOOD
 
-### 👤 Bandidos:
-Mínimo: 6 | Máximo: 8
+**Ação de Médio Porte**
 
-### 🚓 Polícia:
-Sempre 02 a mais que a quantidade de bandidos.
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 6 | Máximo: 8</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>Sempre 02 a mais que a quantidade de bandidos.</td></tr>
+</tbody></table>
 
 - **Submetralhadoras e fuzis** são as únicas armas permitidas.
 - **Permitido até 03 fuzis** para bandido.

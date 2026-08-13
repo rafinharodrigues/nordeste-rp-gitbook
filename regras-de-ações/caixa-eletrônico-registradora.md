@@ -2,13 +2,14 @@
 description: Ação de Pequeno Porte.
 ---
 
-## Ação de Pequeno Porte
+# CAIXA ELETRÔNICO / REGISTRADORA
 
-### **Bandidos:**
-01 veículo completo, independentemente do modelo.
+**Ação de Pequeno Porte**
 
-### **Polícia:**
-03 viaturas no total.
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
+<tr><td><strong>🦹 Bandidos</strong></td><td>01 veículo completo, independentemente do modelo.</td></tr>
+<tr><td><strong>👮 Polícia</strong></td><td>03 viaturas no total.</td></tr>
+</tbody></table>
 
 Podendo apenas 01 unidade de GTM (03 GTM's) durante a perseguição.
 
