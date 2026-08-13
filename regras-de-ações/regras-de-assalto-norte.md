@@ -1,3 +1,7 @@
+---
+description: Regras específicas para assaltos na região norte.
+---
+
 # REGRAS DE ASSALTO NORTE
 
 ### 1 **- Horário de Funcionamento**

@@ -1,3 +1,7 @@
+---
+description: Requisitos, armas e regras de fuga no roubo aos bancos Fleeca.
+---
+
 ## ROUBO
 
 ###  Bandido:

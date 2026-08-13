@@ -1,3 +1,7 @@
+---
+description: Requisitos e limites do roubo no açougue.
+---
+
 ## AÇOUGUE
 Ação de Médio Porte
 

@@ -1,3 +1,7 @@
+---
+description: Como a polícia atua dentro de território de facção.
+---
+
 # AÇÕES POLICIAIS EM FACÇÕES
 
 ## Ações Policiais em Facções (Zona Vermelha) / QRU de Disparo

@@ -1,3 +1,7 @@
+---
+description: Evento na ilha com acesso apenas pelo mar, envolvendo todas as organizações ilegais.
+---
+
 # HELICRASH
 
 ## 1. Chegada e Acesso à Ilha

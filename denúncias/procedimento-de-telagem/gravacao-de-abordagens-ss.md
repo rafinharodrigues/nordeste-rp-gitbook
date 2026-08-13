@@ -1,3 +1,7 @@
+---
+description: Obrigatoriedade de gravação em abordagens.
+---
+
 # GRAVAÇÃO DE ABORDAGENS - SS
 
 #### 1. Obrigações dos SS

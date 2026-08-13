@@ -1,3 +1,7 @@
+---
+description: Regras gerais para roubar dentro da cidade.
+---
+
 # ROUBO NA CIDADE
 
 **Permitido apenas com base na regra de assalto. \[ASSALTOS]**

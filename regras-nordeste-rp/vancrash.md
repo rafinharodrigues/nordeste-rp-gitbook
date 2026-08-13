@@ -1,3 +1,7 @@
+---
+description: Apenas pistolas e sem intervenção policial no local.
+---
+
 # VANCRASH
 
 - Apenas pistolas podem ser utilizadas durante a ação.

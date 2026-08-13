@@ -1,3 +1,7 @@
+---
+description: Ação de Pequeno Porte — mínimo 4 bandidos.
+---
+
 # NAVIO DE CARGAS
 
 ### Ação de Pequeno Porte

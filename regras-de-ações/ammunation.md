@@ -1,3 +1,7 @@
+---
+description: Ação de Pequeno Porte — mínimo 2 bandidos.
+---
+
 # AMMUNATION
 
 ### Ação de Pequeno Porte

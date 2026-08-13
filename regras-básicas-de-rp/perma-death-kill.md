@@ -1,3 +1,7 @@
+---
+description: Quando a morte do personagem se torna definitiva.
+---
+
 # PERMA DEATH KILL
 
 ### 1. Tipos de Perma Death (PD)

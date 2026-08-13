@@ -1,3 +1,7 @@
+---
+description: Como se comportar dentro e no entorno do hospital.
+---
+
 # REGRAS HOSPITAL
 
 - Após reanimar o jogador, se solicitado ou estiver com ferimentos graves, o mesmo deve se dirigir ao hospital com o profissional de saúde, caso se negue deve ser denunciado por anti-rp.

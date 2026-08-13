@@ -1,3 +1,7 @@
+---
+description: Explorar bug ou mecânica do jogo para se beneficiar.
+---
+
 # ABUSO DE MECÂNICA
 
 **ABUSO DE MECÂNICA**

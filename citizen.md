@@ -1,3 +1,7 @@
+---
+description: Mods gráficos: o que é permitido e o que resulta em banimento.
+---
+
 # CITIZEN
 
 ## &#x20;Regras de Citizen / Modificações Gráficas

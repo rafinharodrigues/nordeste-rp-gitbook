@@ -1,3 +1,7 @@
+---
+description: Ação de Pequeno Porte — mínimo 3 bandidos, apenas pistolas, sem agendamento.
+---
+
 # LOJINHA
 
 ### Ação de Pequeno Porte

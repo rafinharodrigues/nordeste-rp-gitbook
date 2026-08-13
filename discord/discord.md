@@ -1,3 +1,7 @@
+---
+description: Conduta no Discord, uso do sistema de tickets e sanções aplicáveis.
+---
+
 # DISCORD
 
 ## 1. Conduta no Discord

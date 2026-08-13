@@ -1,3 +1,7 @@
+---
+description: Requisitos e limites do roubo na Hollywood.
+---
+
 ## HOLLYWOOD
 Ação de Médio Porte
 

@@ -1,3 +1,7 @@
+---
+description: Ação de Pequeno Porte.
+---
+
 # ESTÁBULO
 
 ### Ação de Pequeno Porte

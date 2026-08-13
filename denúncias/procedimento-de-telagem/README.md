@@ -1,3 +1,7 @@
+---
+description: Recusar a telagem resulta em banimento permanente — entenda o processo.
+---
+
 # PROCEDIMENTO DE TELAGEM
 
 ## 1. Regra Geral

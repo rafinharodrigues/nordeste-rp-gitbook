@@ -1,3 +1,7 @@
+---
+description: Sedes, camisas de time e conflito entre torcidas rivais.
+---
+
 # REGRAS TORCIDA ORGANIZADA
 
 1. **Proibição de invasão de sede:**

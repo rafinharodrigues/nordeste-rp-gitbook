@@ -1,3 +1,7 @@
+---
+description: Movimentação irregular de dinheiro e itens entre personagens.
+---
+
 # CAIXA DOIS
 
 ## 1. Definição
