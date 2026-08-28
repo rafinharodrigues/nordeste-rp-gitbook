@@ -33,3 +33,7 @@ _**- Smokes proibidas.**_
 _**RESTAURANTES E MANSÕES:**_\
 \- _**Proibida a entrada de viaturas dentro das edificações.,**_\
 _**- Smokes permitidas: máximo de 2 por porta.**_
+
+_**6- Proibição de veículos**_
+
+_**Proibido colocar veículos com barreira de entrada.**_
