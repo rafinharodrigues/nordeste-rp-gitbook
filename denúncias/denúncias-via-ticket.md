@@ -6,10 +6,11 @@ description: Como abrir um ticket de denúncia e o que incluir nele.
 
 ## 1. Requisitos para Denúncias
 
-* Toda denúncia **somente será considerada válida** se estiver acompanhada de um **clipe completo**, com **duração mínima de 01 (um) minuto**, referente à ação reportada.
+* Toda denúncia **somente será considerada válida** se estiver acompanhada de um **clipe completo**, referente à ação reportada.
 *   O clipe deverá conter, **obrigatoriamente**, todo o **contexto da situação**, desde o início até o seu desfecho, incluindo:
 
     * **ID do denunciado visível na tela**, de forma clara e legível.
+    * A ausência do ID, por si só, não será motivo para impedir uma punição, principalmente em situações graves nas quais seja possível identificar o responsável através da análise do caso.
     * Áudio do **denunciante**;
     * Áudio do **denunciado**;
     * **No mínimo 01 (um) minuto de gravação contínua;**
