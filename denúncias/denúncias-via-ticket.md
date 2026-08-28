@@ -7,16 +7,16 @@ description: Como abrir um ticket de denúncia e o que incluir nele.
 ## 1. Requisitos para Denúncias
 
 * Toda denúncia **somente será considerada válida** se estiver acompanhada de um **clipe completo**, referente à ação reportada.
-*   O clipe deverá conter, **obrigatoriamente**, todo o **contexto da situação**, desde o início até o seu desfecho, incluindo:
+* O clipe deverá conter, **obrigatoriamente**, todo o **contexto da situação**, desde o início até o seu desfecho, incluindo:
+  1. **ID do denunciado visível na tela**, de forma clara e legível.
+  2. A ausência do ID, por si só, não será motivo para impedir uma punição, principalmente em situações graves nas quais seja possível identificar o responsável através da análise do caso.
+  3. Áudio do **denunciante**;
+  4. Áudio do **denunciado**;
+  5. &#x20;**Não é permitido clipes de terceiros.**
 
-    * **ID do denunciado visível na tela**, de forma clara e legível.
-    * A ausência do ID, por si só, não será motivo para impedir uma punição, principalmente em situações graves nas quais seja possível identificar o responsável através da análise do caso.
-    * Áudio do **denunciante**;
-    * Áudio do **denunciado**;
-    * **No mínimo 01 (um) minuto de gravação contínua;**
-    * **Não é permitido clipes de terceiros.**
+— Em casos envolvendo metagaming, serão aceitos clipes de terceiros, desde que o denunciante tenha sido prejudicado ou diretamente envolvido na mesma ação e que a denúncia seja aberta dentro do prazo estabelecido pelas regras.
 
-    A ausência de qualquer um dos itens acima resultará na invalidação da denúncia, sem possibilidade de análise pela administração.
+—  A ausência de qualquer um dos itens acima resultará na invalidação da denúncia, sem possibilidade de análise pela administração.
 
 ## 2. Prazo para Abertura da Denúncia
 
@@ -34,7 +34,7 @@ description: Como abrir um ticket de denúncia e o que incluir nele.
 
 ## 5. Metagaming
 
-* Em casos envolvendo metagaming, serão aceitos clipes de terceiros, desde que o denunciante tenha sido prejudicado ou diretamente envolvido na mesma ação e que a denúncia seja aberta dentro do prazo estabelecido pelas regras.
+*
 
 <details>
 
