@@ -35,9 +35,7 @@ description: Como abrir um ticket de denúncia e o que incluir nele.
 * O denunciante deverá **responder às solicitações da equipe administrativa no ticket no prazo máximo de 24 (vinte e quatro) horas.**
 * O n**ão cumprimento do prazo** acarretará no **encerramento automático do ticket**, sem possibilidade de reabertura.
 
-## 5. Metagaming
 
-*
 
 <details>
 
