@@ -16,7 +16,11 @@ Finalizações sem consentimento prévio do jogador são permitidas exclusivamen
   * Uso de arma branca;
   * Combate corporal.
 
-Após a execução, é **permitido desovar o cadáver em qualquer local**, não sendo exigida justificativa adicional.
+É proibida a desova de corpos durante ações de rua.
+
+A desova em QG ou Favela é permitida somente quando a ação for iniciada dentro da área ou em sua entrada.
+
+Nesses casos, o player que for desovado é obrigado a dar GG, não podendo retornar ou continuar participando da ação.
 
 Qualquer finalização fora das situações descritas acima será considerada infração, estando sujeita às penalidades previstas no regulamento do servidor.
 
