@@ -6,35 +6,33 @@ description: Requisitos e limites do roubo na Life Invader.
 
 **Ação de Médio Porte**
 
-<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody>
-<tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 6 | Máximo: 6</td></tr>
-<tr><td><strong>👮 Polícia</strong></td><td>Sempre 03 a mais que a quantidade de bandidos.</td></tr>
-</tbody></table>
+<table><thead><tr><th width="170">Requisito</th><th>Quantidade</th></tr></thead><tbody><tr><td><strong>🦹 Bandidos</strong></td><td>Mínimo: 6 | Máximo: 6</td></tr><tr><td><strong>👮 Polícia</strong></td><td>Sempre 03 a mais que a quantidade de bandidos.</td></tr></tbody></table>
 
-- Submetralhadoras e fuzis são as únicas armas permitidas.
-- Permitido até 03 fuzis para bandido.
-- Permitido até 04 fuzis para polícia.
-- Não necessário agendamento de ação.
+* Submetralhadoras e fuzis são as únicas armas permitidas.
+* Não necessário agendamento de ação.
 
 {% hint style="warning" %}
 **É proibida a entrada de veículos** dentro do local do roubo.
 {% endhint %}
 
-- O uso de helicópteros é proibido.
-- É proibido atirar de dentro do perímetro para fora do perímetro, e vice-versa.
-- É proibida a utilização de refém.
+* O uso de helicópteros é proibido.
+* É proibido atirar de dentro do perímetro para fora do perímetro, e vice-versa.
+* É proibida a utilização de refém.
 
-:green_circle: **Permitido o uso de utilitários**. (energético, kit médico, bandagem e analgésicos)
-- É permitido subir em construções próximas ao local da ação.
-- Polícia sempre deve rushar.
-- Utilização de apenas 04 smokes (inegociável).
+:green\_circle: **Permitido o uso de utilitários**. (energético, kit médico, bandagem e analgésicos)
+
+* É permitido subir em construções próximas ao local da ação.
+* Polícia sempre deve rushar.
+* Utilização de apenas 04 smokes (inegociável).
 
 ### Perímetro
+
 > Perímetro somente dentro do Life Invader
-> - Ação deverá ser realizada somente no andar de cima, sendo proibido marcar entrada da porta pela sacada.
-> - Caso tenha pessoas marcando na sacada não deverá ocorrer tiro de ambos os lados.
+>
+> * Ação deverá ser realizada somente no andar de cima, sendo proibido marcar entrada da porta pela sacada.
+> * Caso tenha pessoas marcando na sacada não deverá ocorrer tiro de ambos os lados.
 
-- O respeito às regras garante uma experiência equilibrada e divertida para todos os jogadores. Infrações podem resultar em punições, incluindo advertências ou banimento.
-- As regras podem ser alteradas futuramente sem qualquer aviso, por esse motivo leia sempre as regras antes de iniciar as ações.
+* O respeito às regras garante uma experiência equilibrada e divertida para todos os jogadores. Infrações podem resultar em punições, incluindo advertências ou banimento.
+* As regras podem ser alteradas futuramente sem qualquer aviso, por esse motivo leia sempre as regras antes de iniciar as ações.
 
-Previous: HOLLYWOOD  |  Next: BARBEARIA
+Previous: HOLLYWOOD | Next: BARBEARIA
