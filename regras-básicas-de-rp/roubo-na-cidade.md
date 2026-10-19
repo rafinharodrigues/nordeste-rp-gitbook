@@ -32,6 +32,12 @@ Na hipótese de não pagamento da multa, o valor será automaticamente remanejad
 
 A aplicação da multa não exclui outras penalidades previstas no regulamento, conforme a gravidade ou reincidência da infração.
 
+
+
+## 1. Roubos em áreas safe
+
+Proíbido furtar ou roubar em áreas safe
+
 <details>
 
 <summary><strong>Nota:</strong> O respeito às regras de convivência e às narrativas do Roleplay é essencial para manter a imersão e a integridade do servidor.</summary>
