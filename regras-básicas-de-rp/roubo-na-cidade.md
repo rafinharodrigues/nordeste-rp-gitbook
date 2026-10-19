@@ -34,7 +34,7 @@ A aplicação da multa não exclui outras penalidades previstas no regulamento, 
 
 
 
-## 1. Roubos em áreas safe
+## 2. Roubos em áreas safe
 
 Proíbido furtar ou roubar em áreas safe
 
