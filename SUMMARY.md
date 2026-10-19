@@ -31,6 +31,7 @@
   * [REGRAS HOSPITAL](regras-básicas-de-rp/regras-hospital.md)
 * [REGRAS DE AÇÕES](regras-de-ações/regras-de-ações.md)
   * [LOJINHA](regras-de-ações/lojinha.md)
+  * [REGRAS GERAIS DE AÇÕES](regras-de-acoes/regras-gerais-de-acoes.md)
   * [🍴 FAST FOOD](regras-de-ações/fast-food.md)
   * [ESTÁBULO](regras-de-ações/estábulo.md)
   * [NAVIO DE CARGAS](regras-de-ações/navio-de-cargas.md)
